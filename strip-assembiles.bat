@@ -1,6 +1,6 @@
 @echo off 
 
-set toPublicize=Assembly-CSharp.dll Assembly-CSharp-firstpass.dll
+set toPublicize=Assembly-CSharp.dll Assembly-CSharp-firstpass.dll Rewired_Core.dll Rewired_Windows.dll
 
 set exePath=%1
 echo exePath: %exePath% 
